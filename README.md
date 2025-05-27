@@ -1,2 +1,3 @@
-# public-fall25-mcw
-Public repo for CS 625 - Fall 2025 - Weigle (asynchronous)
+# ODU CS 625 - Data Visualization, Fall 2025 - M.C. Weigle
+
+Asynchronous - all materials available through Canvas or GitHub
