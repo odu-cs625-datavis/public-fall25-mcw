@@ -2,10 +2,6 @@
 
 Asynchronous - all materials available through Canvas or GitHub
 
-**Note:** This year's course will be very similar to last year's, see <https://github.com/odu-cs625-datavis/public-fall24-mcw/>
-
-:construction: *Anything below is still a work-in-progress* :construction:
-
 ## Links
 
 * [Syllabus](syllabus.md)
@@ -30,7 +26,7 @@ Asynchronous - all materials available through Canvas or GitHub
 |5| Sep 22| Tour through the Visualization Zoo | | |
 |6| Sep 29| Map Color and Other Channels | Ch 10 | HW4 - Arrange Tables<br/>Semester Project|
 |7| Oct 6| Reduce Items and Attributes | Ch 13 | |
-|8| Oct 13| **Fall Break**<br/>**MID-TERM EXAM** (Oct 17-19)| |
+|8| Oct 13| **Fall Break**<br/>**MID-TERM EXAM** (Oct 18-20)| |
 |9| Oct 20| Exploratory Data Analysis (EDA) |  | HW5 - Analyzing Data|
 |10| Oct 27| Multiple Views|Ch 12||
 |11| Nov 3| Maps, Rules of Thumb, Chart Design| Ch 8.1-8.3<br/>Ch 6 | |
