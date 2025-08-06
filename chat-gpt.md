@@ -26,9 +26,38 @@
 * Ask the model to debate a position with you.  Example: "Let's debate about if 3D pie charts should ever be used. You take the pro position."
 * If an answer is too complicated, ask it to simplify, for example, "Explain it to me like I was a child/in 8th grade/a novice."
 
+### Study Buddy
 Below is an example of an effective way to use an AI tool as a study buddy. 
 
 Prompt (fill in [ ] with your desired content):  
 `Act as a college [computer science] professor. I am a student trying to understand and learn about [preattentive processing]. Please ask me a question. I will attempt to answer it. If I am right, tell me so, then ask me a harder question. If I am wrong, tell me the right answer, give me a brief explanation of why that answer is correct, and then ask me a slightly easier question. If you understand, say “I am ready to help you learn" then ask me your first question.`
 
 Be aware, however, that your professor might not always agree with the answers that the AI tool provides. So, make sure to check anything you get back with your course notes.
+
+### Data Processing Help
+
+These tools are often good at summarizing answers you might find scattered among many webpages.
+
+Example prompts:  
+`Sort a Pandas dataframe by column`,  
+`Create a new Pandas dataframe by trimming the first 10 values from an existing dataframe`
+
+The tool will likely describe the main function that could be used and demonstrate its use on a small example dataframe. It will likely also describe some of the options that are available.
+
+You should always test out any code that GenAI tools provide to make sure that it's correct and that you understand what the code is doing.
+
+### Copy Editing Help
+
+Prompt:  
+`Point out the grammatical or spelling errors in the following paragraph.`
+
+## For More Information
+
+I found the following resources interesting and informative, both related to the techology behind these new GenAI tools and ethical concerns around their use:
+
+* ["A jargon-free explanation of how AI large language models work"](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/), Timothy B. Lee and Sean Trott, ars technica, July 31, 2023.
+* ["Unpacking AI: "an exponential disruption" with Kate Crawford"](https://www.msnbc.com/msnbc-podcast/why-is-this-happening/unpacking-ai-exponential-disruption-kate-crawford-podcast-transcript-n1304427), Chris Hayes "Why is This Happening?" podcast, April 19, 2023.
+  * [More about Kate Crawford](https://www.katecrawford.net/).
+* "A.I. and Stochastic Parrots with Emily Bender and Timnit Gebru" ([listen](https://www.podchaser.com/podcasts/factually-with-adam-conover-853712/episodes/ai-and-stochastic-parrots-with-170946764), [watch](https://www.youtube.com/watch?v=jAHRbFetqII)), Adam Conover "FACTUALLY" podcast, April 26, 2023.
+  * [Emily Bender](http://faculty.washington.edu/ebender/) is Professor at the University of Washington
+  * [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru) is the founder of the Distributed Artificial Intelligence Research Institute (DAIR) and was famously fired from Google for raising ethical questions about the use of AI.
