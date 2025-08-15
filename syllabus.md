@@ -1,8 +1,6 @@
 # CS 625, Fall 2025 Syllabus
 
-*as of July 31, 2025*
-
-[Jump to Summary Schedule](#summary-schedule) <!--| [Download printable PDF version](https://github.com/odu-cs625-datavis/public-fall25-mcw/raw/main/syllabus.pdf)-->
+[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs625-datavis/public-fall25-mcw/raw/main/syllabus.pdf)
 
 Asynchronous Online
 
@@ -72,7 +70,7 @@ Additionally, if you choose to use certain APIs (not required), you should be fa
 
 ### Course Materials
 
-The required textbook for this course is *Visualization Analysis and Design* by Tamara Munzner ([online version accesssible for free via ODU](https://go.oreilly.com/old-dominion-university//library/view/visualization-analysis-and/9781466508910/))
+The required textbook for this course is *Visualization Analysis and Design* by Tamara Munzner ([online version accesssible for free via ODU](https://go.oreilly.com/old-dominion-university/library/view/visualization-analysis-and/9781466508910/))
 
 The author maintains a [website](http://www.cs.ubc.ca/~tmm/vadbook/) with additional resources that will be used throughout our course
 
@@ -203,7 +201,7 @@ The course Canvas site should be your first reference for questions about the cl
 
 ### Use of ChatGPT and other GenAI Tools
 
-The use of ChatGPT or other GenAI tools is permitted *to some extent* in this class. These tools are being rapidly adopted, so it is important that you have some experience with their use. 
+The use of ChatGPT or other GenAI tools is permitted *to some extent* in this class. These tools are being rapidly adopted, so it is important that you have some experience with their use.
 
 These tools are best used to help you *work smarter*, not do your work for you. An essential part of being in graduate school is to develop skills that you will need to be successful in the workplace. If you use these tools to blindly do your homework for you, your learning will suffer and their unauthorized use will be obvious. But if you use the tools to help clarify misunderstandings as you go, you will work and learn faster and hopefully build a solid foundation. 
 
@@ -213,7 +211,7 @@ To use AI tools to help improve your writing, you should write your answer first
 
 For all homework assignments, you must include a list of websites or other references that you consult in solving the assignment. This includes GenAI tools. Not only must you include the website for the tool, but you must include a link to, or screenshot of, the conversation you had with the tool. (ChatGPT has the option to create a link to a conversation.) You must also write out in your HW report the initial prompt that you used.
 
-**Extra Credit Opportunities:** 
+**Extra Credit Opportunities:**
 
 * I would like to know how you have been using GenAI tools. Have you used these to help learn a new API or programming language? To help correct spelling and grammar or otherwise improve your writing?  Share useful prompts you've discovered in the "Useful GenAI Prompts" Discussion board in Canvas for participation and/or extra credit (depending on the type of contribution).
 * If you find an error when using an AI tool for something related to our course content, including a programming error, you can submit this for potential extra credit. Email the instructor with the link to or screenshot of the conversation and an explanation of what was incorrect and how to correct it.
