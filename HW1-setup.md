@@ -115,6 +115,13 @@ Sign up for [Tableau for Students](https://www.tableau.com/academic/students) to
 
 For this assignment, work through the [Get Started with Tableau Desktop tutorial](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm) through [Step 3: Focus your results](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-focus.htm).  
 
+🚨 If you don't see "Sample - Superstore" under **Saved Data Sources** in the **Connect** pane, follow these steps:
+* Under the **To a File** heading, click **Microsoft Excel**.
+* This will open a window to your `Datasources` folder. Navigate until you see `Sample - Superstore.xls`. Then select that file and click Open.
+* Drag the "Orders" table from the left sidepanel to the main area. 
+* Click on "Sheet 1" to start a new Worksheet.
+* From here, you should be able to continue with the original tutorial.
+
 ### Items for Report
 
 **Q1.** After you have created the final bar chart displaying the data from the South region, pick one of the other regions (i.e., not the South region) to display and save the chart as an image (*do not take a screenshot*).  Save the image file in your repo (*no spaces in the filename*) and include the image in your `HW1-report.md`.  
