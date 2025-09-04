@@ -118,6 +118,7 @@ For this assignment, work through the [Get Started with Tableau Desktop tutorial
 🚨 If you don't see "Sample - Superstore" under **Saved Data Sources** in the **Connect** pane, follow these steps:
 * Under the **To a File** heading, click **Microsoft Excel**.
 * This will open a window to your `Datasources` folder. Navigate until you see `Sample - Superstore.xls`. Then select that file and click Open.
+    * If you don't have the file, you can download [Sample - Superstore.xls](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls) from Tableau.
 * Drag the "Orders" table from the left sidepanel to the main area. 
 * Click on "Sheet 1" to start a new Worksheet.
 * From here, you should be able to continue with the original tutorial.
