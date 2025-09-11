@@ -102,18 +102,6 @@ Submit the URL of your report (not the URL of your repo) in Canvas under HW3. Th
 
 # Appendix
 
-## Markdown Code for Table
-
-```
-Idiom: Grouped Bar Chart / Mark: Line
-| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
-| --- |---| --- |
-| year | key, ordered | outer horizontal spatial region (x-axis) |
-| unemployment rate | value, quantitative | vertical position on a common scale (x-axis) |
-| race | categorical | inner horizontal spatial region |
-| race | categorical | color hue |
-```
-
 ## Note about Using Observable
 
 Once you've been added to the @oducs-vis Observable Team, you can create private notebooks that you can use for your homework assignments.
