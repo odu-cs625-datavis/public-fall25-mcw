@@ -72,9 +72,9 @@ Idiom: Grouped Bar Chart / Mark: Line
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | state | primary key, categorical | outer horizontal spatial region (x-axis) |
-| age group | secondary key, ordered | inner horizontal spatial region (x-axis) |
-| population | value, quantitative | vertical position on a common scale (y-axis) |
-| age group | categorical | color hue |
+| age group | secondary key, categorial/ordered | inner horizontal spatial region (x-axis) |
+| population | value, quantitative | aligned vertical position (y-axis) |
+| age group | categorical/ordered | color hue |
 
 
 ## Stacked Bar Chart
@@ -84,7 +84,7 @@ Idiom: Grouped Bar Chart / Mark: Line
 Idiom: Stacked Bar Chart / Mark: Line
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| generation | primary key, categorical | horizontal spatial region (x-axis) |
+| generation | primary key, categorical| horizontal spatial region (x-axis) |
 | spending category | secondary key, categorical | vertical region (y-axis)|
 | spending percentage | value, quantitative | unaligned inner vertical spatial region (y-axis)  |
 | spending category | categorical | color hue |
