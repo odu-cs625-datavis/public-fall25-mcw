@@ -71,7 +71,7 @@ For each chart you create, provide the following:
 * an idiom/mark/data/encode table (see [Idiom-Mark-Data-Encode Table Examples](idiom-mark-data-encode-Examples.md))
 * an appropriately-sized image of and link to each chart you created
     * Excel, Tableau - link to your spreadsheet/workbook in your GitHub repo
-    * Vega-Lite - provide a link to your notebook (see ["Note about Using Observable"](#note-about-using-observable) for sharing instructions)
+    * Vega-Lite - provide a link to your notebook (see [Note about Using Observable](observable-note.md) for sharing instructions)
     * Seaborn in Google Colab - provide a link to your notebook (make sure to share with GTA and instructor) or link to your ipynb file in your GitHub repo
     * Seaborn locally - link to your Python code in your GitHub repo
     * other tools - ask if you have questions about what should be submitted
@@ -99,26 +99,3 @@ Submit the URL of your report (not the URL of your repo) in Canvas under HW3. Th
 `https://github.com/odu-cs625-datavis/fall25-mcw-username/blob/main/HW3-report.md` 
 
 *If you make changes to your report after submitting in Canvas, we will use the last commit time in your repo as your assignment submission time.*
-
-# Appendix
-
-## Note about Using Observable
-
-Once you've been added to the @oducs-vis Observable Team, you can create private notebooks that you can use for your homework assignments.
-
-To create a new private notebook:
-
-* start at https://observablehq.com/@oducs-vis
-* click New
-* make sure **Workspace** is set to "ODUCS Vis" and **Visibility** is set to "Only You"
-* click Create Notebook
-
-To share with your instructor and GTA (for help or for grading):
-
-* click Share
-* in the **Search for a teammate** box, enter `Sandeep945-pixel, weiglemc` so that both Sandeep (GTA) and Dr. Weigle can access it
-* choose "Can Edit"
-* click Add
-* click Save
-
-Note that after the semester, you will be removed from the Team. We'll send an email to remind you and give you time to copy your notebooks elsewhere before that happens (you can transfer ownership to your own account). We would appreciate that you remove mention of CS 625 from the notebooks before making them public.
