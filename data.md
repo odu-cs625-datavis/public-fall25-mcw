@@ -6,36 +6,37 @@ This is just a sample of the various public datasets that are freely available o
 
 ### Public Data Collections
 
-* Data is Plural Archive - https://www.data-is-plural.com/archive/ - each entry provides a set of data sources and additional context
-* Awesome Public Datasets - https://github.com/awesomedata/awesome-public-datasets
-* fivethirtyeight.com datasets - https://data.fivethirtyeight.com
-* BuzzFeedNews datasets - https://github.com/BuzzFeedNews/everything
-* Responsible Datasets in Context - https://www.responsible-datasets-in-context.com/
+* Data is Plural Archive - <https://www.data-is-plural.com/archive/> - each entry provides a set of data sources and additional context
+* Awesome Public Datasets - <https://github.com/awesomedata/awesome-public-datasets>
+* fivethirtyeight.com datasets - <https://data.fivethirtyeight.com>
+* BuzzFeedNews datasets - <https://github.com/BuzzFeedNews/everything>
+* Responsible Datasets in Context - <https://www.responsible-datasets-in-context.com/>
 
 ### Local Government
-* Commonwealth of Virginia - https://data.virginia.gov/
-* Norfolk - https://data.norfolk.gov/
-* Virginia Beach - https://data.virginiabeach.gov/
-* Chesapeake - https://public-chesva.opendata.arcgis.com/
+* Commonwealth of Virginia - <https://data.virginia.gov/>
+* Norfolk - <https://data.norfolk.gov/>
+* Virginia Beach - <https://data.virginiabeach.gov/>
+* Chesapeake - <https://public-chesva.opendata.arcgis.com/>
 
 ### National/World
 
-* US Government data - https://www.data.gov
-* US employment - https://www.bls.gov/data/
-* US demographics - https://www.census.gov/data.html
-* FBI Crime Data - https://www.fbi.gov/services/cjis/ucr/
-  * however, see "National Crime Data Has Always Been Flawed" by Jeff Asher, Dec 2024, https://jasher.substack.com/p/national-crime-data-has-always-been
-* UK Government data - https://data.gov.uk
-* World Bank data - https://databank.worldbank.org/data/home.aspx
+* US Government data - <https://www.data.gov>
+* US employment - <https://www.bls.gov/data/>
+* US demographics - <https://www.census.gov/data.html>
+* US health data from [County Health Rankings & Roadmaps](https://www.countyhealthrankings.org/about-us) - <https://www.countyhealthrankings.org/health-data>
+* FBI Crime Data - <https://www.fbi.gov/services/cjis/ucr/>
+  * however, see ["National Crime Data Has Always Been Flawed"](https://jasher.substack.com/p/national-crime-data-has-always-been) by Jeff Asher, Dec 2024
+* UK Government data - <https://data.gov.uk>
+* World Bank data - <https://databank.worldbank.org/data/home.aspx>
 
 ### COVID-19
 
-* Coronavirus (Covid-19) Data in the United States, *New York Times* - https://github.com/nytimes/covid-19-data
-* State-level social distancing policies in response to the 2019 novel coronavirus in the US - https://github.com/COVID19StatePolicy/SocialDistancing
+* Coronavirus (Covid-19) Data in the United States, *New York Times* - <https://github.com/nytimes/covid-19-data>
+* State-level social distancing policies in response to the 2019 novel coronavirus in the US - <https://github.com/COVID19StatePolicy/SocialDistancing>
 
 ## Weather/Climate
 
-* water levels - https://tidesandcurrents.noaa.gov
-* Hampton Roads tide predictions - http://coastalslr.blogspot.com/2017/12/hampton-roads-tide-predictions.html
-* climate - https://www.ncdc.noaa.gov/cdo-web/datatools
-* hurricanes - http://www.nhc.noaa.gov/analysis_tools.php
+* water levels - <https://tidesandcurrents.noaa.gov>
+* Hampton Roads tide predictions - <http://coastalslr.blogspot.com/2017/12/hampton-roads-tide-predictions.html>
+* climate - <https://www.ncdc.noaa.gov/cdo-web/datatools>
+* hurricanes - <http://www.nhc.noaa.gov/analysis_tools.php>
