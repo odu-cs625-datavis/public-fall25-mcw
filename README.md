@@ -24,8 +24,8 @@ Asynchronous - all materials available through Canvas or GitHub
 |3| Sep 8| Marks and Channels |Ch 5| |
 |4| Sep 15|Arrange Tables | Ch 7 | HW3 - Re-Create Charts|
 |5| Sep 22| Tour through the Visualization Zoo | | |
-|6| Sep 29| Map Color and Other Channels | Ch 10 | HW4 - Arrange Tables<br/>Semester Project|
-|7| Oct 6| Reduce Items and Attributes | Ch 13 | |
+|6| Sep 29| Map Color and Other Channels | Ch 10 | HW4 - Arrange Tables|
+|7| Oct 6| Reduce Items and Attributes | Ch 13 | Semester Project|
 |8| Oct 13| **Fall Break**<br/>**MID-TERM EXAM** (Oct 17-19)| |
 |9| Oct 20| Exploratory Data Analysis (EDA) |  | HW5 - Analyzing Data|
 |10| Oct 27| Multiple Views|Ch 12||
