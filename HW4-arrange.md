@@ -15,6 +15,8 @@ All of the datasets for this assignment come from the [2010 Statistical Abstract
 
 In addition to looking at the Excel spreadsheets for the tables listed below, you should also view the section's PDF for more information about the data. 
 
+**Fall 2025 Note:** Due to the uncertainty of data availability at census.gov, I've made all of the relevant Excel spreadsheets and PDF documents available in the [datasets folder](datasets/).
+
 ### Dataset 1
 
 [Section 3. Health and Nutrition](https://www.census.gov/library/publications/2009/compendia/statab/129ed/health-nutrition.html) / Table 138 - CHIP Enrollment and Expenditures by State
