@@ -1,0 +1,220 @@
+<html>
+<head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link rel="stylesheet" href="https://www.census.gov/main/css/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://www.census.gov/main/css/new_footer.css">
+    <style>
+        html {
+            height: 100%;
+            position: relative;
+        }
+
+        body {
+            height: 75%;
+            position: relative;
+        }
+
+        @media only screen and (max-width: 700px) {
+            .val {
+                width: 100%;
+                margin: auto 0;
+
+            }
+
+            a {
+                font-size: small;
+            }
+
+            .foot_bottom_links {
+                width: 100%;
+
+                text-align: left;
+            }
+
+        }
+
+        hr.foot-line {
+            margin-bottom: 10px;
+        }
+    </style>
+    <script type="text/javascript">
+        const referrerUrl = "https://www2.census.gov/library/publications/2010/compendia/statab/129ed/tables/geo.pdf";
+
+        function redirectAfterDelay() {
+            setTimeout(function() {
+                // If there's no referrer, don't redirect to a blank page. Redirect to census.gov instead.
+                if (referrerUrl) {
+                    window.location.href = referrerUrl;
+                } else {
+                    window.location.href = 'https://www.census.gov';
+                }
+            }, 10000); // 10000 milliseconds = 10 seconds
+        }
+
+        // Call the function when the page loads
+        window.onload = redirectAfterDelay;
+    </script>
+    <meta charset="utf-8" />
+    <script src="https://www.census.gov/main/uswds/uswds-2.12.0/js/uswds-init.min.js"></script>
+    <link rel="stylesheet" href="https://www.census.gov/main/css/all_header_styles.css" />
+    <style id="antiClickjack">
+        body {
+            display: none !important
+        }
+    </style>
+    <script type="text/javascript" src="https://www.census.gov/main/javascript/clickjack.js"></script>
+    <script src="https://www.census.gov/main/responsive-header/jquery/jquery.js" class="cb-main-support global-file"></script>
+    <script src="https://www.census.gov/main/responsive-header/bootstrap-custom/js/bootstrap.js" class="cb-main-support global-file"></script>
+    <style type="text/css">
+        header.hdr-primary,
+        header.hdr-primary>nav {
+            display: flex !important;
+            align-items: center !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            height: 64px !important;
+            background-color: #ffffff !important;
+            /* border-color: #112e51 !important;*/
+        }
+
+        header.hdr-primary>nav>div {
+            box-sizing: border-box !important;
+            height: 36.62px !important;
+            font-size: 20px !important;
+            font-weight: 500 !important;
+            letter-spacing: 0.02em !important;
+            line-height: 30px !important;
+            white-space: nowrap !important;
+            vertical-align: baseline !important;
+            padding: 0 0 0 16px !important;
+            margin: 0 !important;
+            min-width: 150px !important;
+        }
+
+        header.hdr-primary>nav>div>a,
+        header.hdr-primary>nav>div>a>img {
+            padding: 0 !important;
+            margin: 0 !important;
+            border-style: none !important;
+            background: transparent !important;
+            text-decoration: none !important;
+        }
+
+        header.hdr-primary>nav>div>a {
+            box-sizing: border-box !important;
+            cursor: pointer !important;
+            text-decoration: none !important;
+        }
+
+        header.hdr-primary>nav>div>a>img {
+            width: 86px !important;
+            height: 33.62px !important;
+            margin-left: 15px !important;
+        }
+
+        hr.blue-line {
+            /* border-top-width: 2px;*/
+            /* border-color: #d0dce1;*/
+            margin: 0px;
+            border-bottom: #d0dce1 1px solid;
+
+        }
+
+        .message {
+            font-size: 2.4rem !important;
+            font-weight: 700 !important;
+            min-height: 475px;
+            height: 100%;
+            width: 100%;
+            text-align: center;
+            color: #131313;
+            display: flex;
+            justify-content: center;
+        }
+
+        .warning {
+            color: #131313 !important;
+            width: 75%;
+            margin-top: 4%;
+            padding-bottom: 5%;
+        }
+
+        .warning-text {
+            font-size: 2.2rem !important;
+            margin-top: 4%;
+        }
+
+        .warning-subtext {
+            font-size: 2.2rem !important;
+        }
+
+        .redirected {
+            width: 100%;
+            font-size: clamp(1rem, 1vw + 0.75rem, 2rem) !important;
+            margin-top: 4%;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="usa-banner" aria-label="Official government website">
+        <div class="usa-accordion">
+            <header class="usa-banner__header">
+                <div class="usa-banner__inner">
+                    <div class="grid-col-auto">
+                        <img class="usa-banner__header-flag" src="https://www.census.gov/main/uswds/uswds-2.12.0/img/us_flag_small.png" alt="U.S. flag" />
+                    </div>
+                    <div class="grid-col-fill tablet:grid-col-auto">
+                        <p class="usa-banner__header-text">
+                            An official website of the United States government
+                        </p>
+                    </div>
+                </div>
+            </header>
+            </div>
+    </section>
+    <button class="cb-header-skip-nav sr-only sr-only-focusable">Skip to main content</button>
+    <header class="hdr-primary">
+        <nav>
+            <div>
+                <a href="https://www.census.gov" id="census-home-link">
+                    <img src="https://www.census.gov/main/img/USCENSUS_IDENTITY_SOLO_BLACK_1.5in_R_no_padding.svg" alt="United States Census Bureau" title="U.S. Census Bureau" />
+                </a>
+            </div>
+        </nav>
+    </header>
+    <hr class="blue-line" />
+    <a class="sr-only" tabindex="-1" id="cb-after-header-anchor">end of header</a>
+    <div class="message">
+        <div class="warning">
+            <div style="font-weight:bold;">NOTICE:</div>
+            <div class="warning-text">
+                Due to the lapse of federal funding, portions of this website will not be updated. Any inquiries submitted
+                will not be answered until appropriations are enacted.
+                </div>
+            <div class="redirected">You will be redirected in 10 seconds...</div>
+        </div>
+    </div>
+    <footer class="footer container-fluid">
+        <div class="row">
+            <div class="grid_footer_links cf">
+                <div class="foot_bottom">
+                    <div class="foot_bottom_links">
+                        <div class="footerbottom">
+                            <div class="val">
+                                <a class="foot_bottom_socialLinks" href="https://www.census.gov/about/contact-us/social_media.html">CONNECT WITH US</a>
+                                <a class="social-icon" href="https://www.facebook.com/uscensusbureau" aria-label="U.S. Census Bureau on Facebook">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a class="social-icon" href="https://twitter.com/uscensusbureau" aria-label="U.S. Census Bureau on Twitter">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a class="social-icon" href="https://www.linkedin.com/company/us-census-bureau" aria-label="U.S. Census Bureau on LinkedIn">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a class="social-icon" href="https://www.youtube.com/user/uscensusbureau" aria-label="U.S. Census Bureau on YouTube">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                                <a class="social-icon" href="https://www.instagram.com/uscensusbureau/" aria-label="U.S. Census Bureau on Instagram">
+                                    <i class="fa fa-instagram"></i>
+                                </a>
